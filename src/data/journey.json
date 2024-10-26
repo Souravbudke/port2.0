@@ -1,0 +1,35 @@
+[
+	{
+		"title": "Finalist, Smart India Hackathon",
+		"description": [
+			"Collaborated with a multidisciplinary team to develop a solution for analyzing and identifying malicious mobile applications.",
+            "Implemented key security features, including SSL certificate validation, HTTP request analysis, and IP location tracking, to enhance detection accuracy.",
+            "Worked closely with mentors and team members, making necessary improvements to ensure a robust and scalable solution.",
+            "Strengthened skills in cybersecurity, problem-solving, and teamwork, contributing to a successful outcome in the hackathon."
+		],
+		"date": "Dec 2023",
+		"company": "GIET University Gunupur, Odisha, India"
+	},
+	{
+		"title": "HTML AND WEB DEVELOPMENT",
+		"description": [
+			"Developed responsive and visually appealing websites using HTML, CSS, and JavaScript, ensuring an enhanced online presence for clients.",
+			"Troubleshooted and optimized user interfaces to improve user experience, leading to increased client satisfaction and brand visibility.",
+			"Integrated third-party tools such as Google Analytics to track website performance and enhance clients’ business reach.",
+			"Configured hosting environments and managed DNS settings, improving website load times and security."	
+			],
+		"date": "Sept 2022 - Dec 2022",
+		"company": "Jain college of engineering and technology Hubballi"
+	},
+	{
+		"title": "Bachelors in Computer science and Engineering",
+		"description": [
+			"Gained a strong foundation in programming languages such as Python, C++, and Java, and applied them to develop software solutions and web applications.",
+			"Collaborated with peers on various projects, enhancing my ability to work in a team environment and develop practical solutions for real-world challenges.",
+			"Completed hands-on projects in web development, cloud computing, and cybersecurity, which strengthened my technical expertise and prepared me for industry-related tasks."
+		],
+		"date": "Aug 2021 – Apr 2025(expected)",
+		"company": "Jain college of engineering and technology Hubballi"
+	}
+	
+]

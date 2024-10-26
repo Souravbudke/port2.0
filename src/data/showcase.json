@@ -1,0 +1,43 @@
+[
+	{
+		"title": "qr attendence system",
+		"description": "Led a team of 4 to develop a scalable web app with networked QR code attendance, submission windows, and secure data using Python, Django, HTML, CSS, and JavaScript.",
+		"image": "assets/carousel/showcase-1.png",
+		"categories": ["Django", "Python", "Html","CSS","JavaScript"],
+		"linkTitle": ["View GitHub Repo", "Live Preview"],
+		"linkUrl": [
+			"https://github.com/Souravbudke/NETWORKED-QR-CODE-ATTENDANCE-WITH-SUBMISSION-WINDOWS",
+			"https://www.youtube.com/watch?v=l_ILMrx7SRc&ab_channel=SOURAVBUDKE"
+		]
+	},
+	{
+		"title": "Blood Bank Inventory Management System through DBMS. ",
+		"description": "Created a Blood Bank Inventory Management System with Django and SQL Server, implementing user registration, donation tracking, and stock management through a user-friendly interface.",
+		"image": "assets/carousel/showcase-2.png",
+		"categories": ["PHP","HTML", "CSS", "JavaScript"],
+		"linkTitle": ["View GitHub Repo", "Live Preview"],
+		"linkUrl": [
+			"https://github.com/Souravbudke/blood-bank",
+			"https://youtu.be/8fgxX2NKkLA?si=0Yaj17x_dT9xxX_8"
+		]
+	},
+	{
+		"title": "Creating a Dynamic Cityscape and celestial bodies Simulation. ",
+		"description": "Developed a dynamic cityscape simulation with a day-night cycle using Python and PyOpenGL, featuring randomized elements and cross-platform compatibility.",
+		"image": "assets/carousel/showcase-3.png",
+		"categories": ["OpenGL","UI Design", "UX Research"],
+		"linkTitle": ["View GitHub Repo"],
+		"linkUrl": [
+			"https://github.com/Souravbudke/cityscape"
+		]
+	},
+	{
+		"title": "AI-Powered Sentiment Insight API Tool ",
+		"description": "Built a Flask-based API to process customer reviews in CSV and XLSX formats, integrated Groq API for AI-powered sentiment analysis, and implemented features for real-time insights, ensuring reliable performance and accurate analysis.",
+		"image": "assets/carousel/showcase-4.png",
+		"categories": ["Groq-api","flask"],
+		"linkTitle": ["View GitHub Repo"],
+		"linkUrl": ["https://github.com/Souravbudke/Groq-API-Sentiment-Analysis"]
+	}
+	
+]
